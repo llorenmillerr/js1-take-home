@@ -1,3 +1,4 @@
+//variables for logMessage()
 var name = "Loren"
 var orgName = "Geekwise"
 var className = "Javascript 1"
